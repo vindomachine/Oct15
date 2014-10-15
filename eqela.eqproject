@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# oct15
+#
+
+projectname: oct15
+vendorid: com.vin
+mainmodule: com.vin.oct15
